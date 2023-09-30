@@ -1,2 +1,4 @@
-# cs-site-repo
-A repository for computer science related website. The majority of the websites are for software/web-development.
+# cs-site-repo 🖥️👩🏽‍🔬
+>A curated list of computer science and (mostly) programming related websites.
+## Categories
+Programming
